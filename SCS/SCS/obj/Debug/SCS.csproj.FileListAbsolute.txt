@@ -1,0 +1,10 @@
+D:\Work\SCS\SCS\SCS\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\SCS\SCS\SCS\bin\SCS.dll
+D:\Work\SCS\SCS\SCS\bin\SCS.pdb
+D:\Work\SCS\SCS\SCS\obj\Debug\SCS.dll
+D:\Work\SCS\SCS\SCS\obj\Debug\SCS.pdb
+D:\Work\SCS_Last\SCS\SCS\bin\SCS.dll
+D:\Work\SCS_Last\SCS\SCS\bin\SCS.pdb
+D:\Work\SCS_Last\SCS\SCS\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\SCS_Last\SCS\SCS\obj\Debug\SCS.dll
+D:\Work\SCS_Last\SCS\SCS\obj\Debug\SCS.pdb
